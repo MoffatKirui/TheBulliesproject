@@ -15,19 +15,19 @@ As data scientists we decided to conduct a research and analysis with the aim be
 
 ## Collaborators
 @grandfatherr
-grandfatherr
+Edwin Mutuma
 Collaborator
 
 @MarkNgendo
-MarkNgendo
+Mark Tiba Ngendo
 Collaborator
 
 @shinyarah
-shinyarah
+Wanjiru Kinyara
 Collaborator
 
 @Waiyegolove
-Waiyegolove
+Mercy Waiyego
 Collaborator
 
 ## Licence
